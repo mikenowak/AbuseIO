@@ -22,7 +22,7 @@
         <tr>
             <th>{{ trans('misc.ticket_id') }}</th>
             <th>{{ trans('misc.ip') }}</th>
-            <th>{{ trans('misc.domain') }}</th>
+            <th>{{ trans('misc.contact') }}</th>
             <th>{{ trans('misc.type') }}</th>
             <th>{{ trans('misc.classification') }}</th>
             <th>{{ trans('tickets.events') }}</th>

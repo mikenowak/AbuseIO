@@ -52,7 +52,7 @@ $(document).ready(function() {
         columns: [
             { data: 'id', name: 'tickets.id' },
             { data: 'ip', name: 'tickets.ip' },
-            { data: 'domain', name: 'tickets.domain' },
+            { data: 'ip_contact_name', name: 'tickets.ip_contact_name' },
             { data: 'type_id', name: 'tickets.type_id' },
             { data: 'class_id', name: 'tickets.class_id' },
             { data: 'event_count', name: 'event_count', searchable: false },
